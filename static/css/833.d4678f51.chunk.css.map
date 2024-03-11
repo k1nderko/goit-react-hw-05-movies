@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/833.d4678f51.chunk.css","mappings":"AAAA,6BACE,YACF,CAEA,6BACE,iBACF,CAEA,iCAEE,WAAY,CADZ,UAEF","sources":["views/MovieDetailsPage/MovieDetailsPage.module.css"],"sourcesContent":[".box {\n  display: flex;\n}\n\n.img {\n  margin-right: 30px;\n}\n\n.img > img {\n  width: 100%;\n  height: 100%;\n}\n"],"names":[],"sourceRoot":""}
